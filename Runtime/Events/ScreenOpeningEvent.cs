@@ -1,5 +1,5 @@
-using Rossoforge.Core.Events;
 using Rossoforge.Core.UI.Screens;
+using Rossoforge.Events.Bus;
 
 namespace Rossoforge.UI.Screens.Events
 {
