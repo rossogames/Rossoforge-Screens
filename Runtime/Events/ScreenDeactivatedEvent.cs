@@ -1,7 +1,7 @@
-using Rossoforge.Core.UI.Screens;
 using Rossoforge.Events.Bus;
+using Rossoforge.Screens.UI;
 
-namespace Rossoforge.UI.Screens.Events
+namespace Rossoforge.Screens.Events
 {
     public readonly struct ScreenDeactivatedEvent : IEvent
     {

@@ -1,8 +1,8 @@
-using Rossoforge.Core.UI.Screens;
 using Rossoforge.Utils.Logger;
 using UnityEngine;
 
-namespace Rossoforge.UI.Screens.ScreenBase
+namespace Rossoforge.Screens.UI
+
 {
     [RequireComponent(typeof(CanvasGroup))]
     public abstract class ScreenView<V, P> : MonoBehaviour, IScreenView
