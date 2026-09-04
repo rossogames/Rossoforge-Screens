@@ -2,7 +2,7 @@ using Rossoforge.Core.UI.Screens;
 using Rossoforge.Events.Bus;
 using Rossoforge.Events.Service;
 using Rossoforge.Scenes.Events;
-using Rossoforge.Services;
+using Rossoforge.Services.Locator;
 using Rossoforge.UI.Screens.Events;
 
 namespace Rossoforge.UI.Screens.ScreenBase
