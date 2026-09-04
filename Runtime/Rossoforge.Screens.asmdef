@@ -1,13 +1,13 @@
 {
-    "name": "Rossoforge.UI.Screens",
-    "rootNamespace": "Rossoforge.UI.Screens",
+    "name": "Rossoforge.Screens",
+    "rootNamespace": "Rossoforge.Screens",
     "references": [
         "Unity.TextMeshPro",
         "Rossoforge.Core",
         "Rossoforge.Services",
         "Rossoforge.Scenes",
-        "Rossoforge.UI.Controls",
-        "Rossoforge.Utils"
+        "Rossoforge.Utils",
+        "Rossoforge.Controls"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
