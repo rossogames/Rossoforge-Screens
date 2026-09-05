@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/rossogames/Rossoforge-UI-Popups/blob/main/logo.png?raw=true" alt="Rossoforge" width="64"/></td>
-    <td><h2>Rossoforge - UI - Screens</h2></td>
+    <td><img src="https://github.com/rossogames/Rossoforge-Screens/blob/main/logo.png?raw=true" alt="Rossoforge" width="64"/></td>
+    <td><h2>Rossoforge - Screens</h2></td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
 * [Rossoforge-Events](https://github.com/rossogames/Rossoforge-Events.git)
 * [Rossoforge-Scenes](https://github.com/rossogames/Rossoforge-Scenes.git)
 * [Rossoforge-Services](https://github.com/rossogames/Rossoforge-Services.git)
-* [Rossoforge-UI-Controls](https://github.com/rossogames/Rossoforge-UI-Controls.git)
+* [Rossoforge-UI-Controls](https://github.com/rossogames/Rossoforge-Controls.git)
 * [Rossoforge-Utils](https://github.com/rossogames/Rossoforge-Utils.git)
 
 #
