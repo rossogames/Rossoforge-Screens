@@ -20,7 +20,7 @@
 * [Rossoforge-Events](https://github.com/rossogames/Rossoforge-Events.git)
 * [Rossoforge-Scenes](https://github.com/rossogames/Rossoforge-Scenes.git)
 * [Rossoforge-Services](https://github.com/rossogames/Rossoforge-Services.git)
-* [Rossoforge-UI-Controls](https://github.com/rossogames/Rossoforge-Controls.git)
+* [Rossoforge-Controls](https://github.com/rossogames/Rossoforge-Controls.git)
 * [Rossoforge-Utils](https://github.com/rossogames/Rossoforge-Utils.git)
 
 #
