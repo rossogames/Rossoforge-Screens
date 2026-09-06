@@ -29,7 +29,7 @@
 ServiceLocator.SetLocator(new DefaultServiceLocator());
 
 var eventService = new EventService();
-var sceneService = new SceneService(_sceneServiceData);
+var sceneService = new SceneService(_sceneDataService);
 
 ServiceLocator.Register<IEventService>(eventService);
 ServiceLocator.Register<ISceneService>(sceneService);
