@@ -1,6 +1,6 @@
-using Rossoforge.UI.Controls.Buttons;
+using Rossoforge.Controls.Buttons;
 
-namespace Rossoforge.UI.Screens.ScreenTemplate
+namespace Rossoforge.Screens.Samples.ScreenTemplate
 {
     public class ScreenTemplateButtonPlay : ButtonEventsHandler<ScreenTemplateButtonPlay>
     {

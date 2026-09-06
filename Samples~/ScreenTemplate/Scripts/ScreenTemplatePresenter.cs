@@ -1,8 +1,8 @@
-using Rossoforge.Core.Scenes;
-using Rossoforge.Services;
-using Rossoforge.UI.Screens.ScreenBase;
+using Rossoforge.Scenes.Service;
+using Rossoforge.Screens.UI;
+using Rossoforge.Services.Locator;
 
-namespace Rossoforge.UI.Screens.ScreenTemplate
+namespace Rossoforge.Screens.Samples.ScreenTemplate
 {
     public class ScreenTemplatePresenter : ScreenPresenter<ScreenTemplateView, ScreenTemplatePresenter>
     {
